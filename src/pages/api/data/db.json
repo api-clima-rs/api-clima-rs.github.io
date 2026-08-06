@@ -5,7 +5,8 @@
     "url_ibge_cidades_estados": "https://www.ibge.gov.br/cidades-e-estados?c=4300034",
     "url_clima_rs_v1_simagro_forecast": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4300034",
     "url_clima_rs_v1_simagro_forecast_current": "https://clima.rs.gov.br/climars/api/v1/simagro/current/4300034",
-    "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4300034?limite=5"
+    "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4300034?limite=5",
+    "url_openstreetmap_v1_nominatim": "https://nominatim.openstreetmap.org/search?q=Acegua,RS,Brasil&format=json&limit=1"
   },
   {
     "cidade_nome": "Água Santa",
@@ -3618,7 +3619,7 @@
     "simagro_forecast_detailed_url": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4320800/detailed"
   },
   {
-    "nome": "Tabaí",
+    "ibge_nome_cidade": "Tabaí",
     "ibge_codigo_cidade": 4320859,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4320859",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4320859?limite=5",
@@ -3627,7 +3628,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4320859/detailed"
   },
   {
-    "nome": "Tapejara",
+    "ibge_nome_cidade": "Tapejara",
     "ibge_codigo_cidade": 4320909,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4320909",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4320909?limite=5",
@@ -3636,7 +3637,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4320909/detailed"
   },
   {
-    "nome": "Tapera",
+    "ibge_nome_cidade": "Tapera",
     "ibge_codigo_cidade": 4321006,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321006",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321006?limite=5",
@@ -3645,7 +3646,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321006/detailed"
   },
   {
-    "nome": "Tapes",
+    "ibge_nome_cidade": "Tapes",
     "ibge_codigo_cidade": 4321105,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321105",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321105?limite=5",
@@ -3654,7 +3655,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321105/detailed"
   },
   {
-    "nome": "Taquara",
+    "ibge_nome_cidade": "Taquara",
     "ibge_codigo_cidade": 4321204,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321204",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321204?limite=5",
@@ -3663,7 +3664,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321204/detailed"
   },
   {
-    "nome": "Taquari",
+    "ibge_nome_cidade": "Taquari",
     "ibge_codigo_cidade": 4321303,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321303",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321303?limite=5",
@@ -3672,7 +3673,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321303/detailed"
   },
   {
-    "nome": "Taquaruçu do Sul",
+    "ibge_nome_cidade": "Taquaruçu do Sul",
     "ibge_codigo_cidade": 4321329,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321329",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321329?limite=5",
@@ -3681,7 +3682,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321329/detailed"
   },
   {
-    "nome": "Tavares",
+    "ibge_nome_cidade": "Tavares",
     "ibge_codigo_cidade": 4321352,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321352",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321352?limite=5",
@@ -3690,7 +3691,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321352/detailed"
   },
   {
-    "nome": "Tenente Portela",
+    "ibge_nome_cidade": "Tenente Portela",
     "ibge_codigo_cidade": 4321402,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321402",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321402?limite=5",
@@ -3699,7 +3700,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321402/detailed"
   },
   {
-    "nome": "Terra de Areia",
+    "ibge_nome_cidade": "Terra de Areia",
     "ibge_codigo_cidade": 4321436,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321436",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321436?limite=5",
@@ -3708,7 +3709,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321436/detailed"
   },
   {
-    "nome": "Teutônia",
+    "ibge_nome_cidade": "Teutônia",
     "ibge_codigo_cidade": 4321451,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321451",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321451?limite=5",
@@ -3717,7 +3718,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321451/detailed"
   },
   {
-    "nome": "Tio Hugo",
+    "ibge_nome_cidade": "Tio Hugo",
     "ibge_codigo_cidade": 4321469,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321469",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321469?limite=5",
@@ -3726,7 +3727,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321469/detailed"
   },
   {
-    "nome": "Tiradentes do Sul",
+    "ibge_nome_cidade": "Tiradentes do Sul",
     "ibge_codigo_cidade": 4321477,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321477",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321477?limite=5",
@@ -3735,7 +3736,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321477/detailed"
   },
   {
-    "nome": "Toropi",
+    "ibge_nome_cidade": "Toropi",
     "ibge_codigo_cidade": 4321493,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321493",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321493?limite=5",
@@ -3744,7 +3745,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321493/detailed"
   },
   {
-    "nome": "Torres",
+    "ibge_nome_cidade": "Torres",
     "ibge_codigo_cidade": 4321501,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321501",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321501?limite=5",
@@ -3753,7 +3754,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321501/detailed"
   },
   {
-    "nome": "Tramandaí",
+    "ibge_nome_cidade": "Tramandaí",
     "ibge_codigo_cidade": 4321600,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321600",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321600?limite=5",
@@ -3762,7 +3763,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321600/detailed"
   },
   {
-    "nome": "Travesseiro",
+    "ibge_nome_cidade": "Travesseiro",
     "ibge_codigo_cidade": 4321626,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321626",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321626?limite=5",
@@ -3771,7 +3772,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321626/detailed"
   },
   {
-    "nome": "Três Arroios",
+    "ibge_nome_cidade": "Três Arroios",
     "ibge_codigo_cidade": 4321634,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321634",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321634?limite=5",
@@ -3780,7 +3781,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321634/detailed"
   },
   {
-    "nome": "Três Cachoeiras",
+    "ibge_nome_cidade": "Três Cachoeiras",
     "ibge_codigo_cidade": 4321667,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321667",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321667?limite=5",
@@ -3789,7 +3790,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321667/detailed"
   },
   {
-    "nome": "Três Coroas",
+    "ibge_nome_cidade": "Três Coroas",
     "ibge_codigo_cidade": 4321709,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321709",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321709?limite=5",
@@ -3798,7 +3799,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321709/detailed"
   },
   {
-    "nome": "Três Forquilhas",
+    "ibge_nome_cidade": "Três Forquilhas",
     "ibge_codigo_cidade": 4321832,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321832",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321832?limite=5",
@@ -3807,7 +3808,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321832/detailed"
   },
   {
-    "nome": "Três Palmeiras",
+    "ibge_nome_cidade": "Três Palmeiras",
     "ibge_codigo_cidade": 4321857,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321857",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321857?limite=5",
@@ -3816,7 +3817,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321857/detailed"
   },
   {
-    "nome": "Três Passos",
+    "ibge_nome_cidade": "Três Passos",
     "ibge_codigo_cidade": 4321907,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321907",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321907?limite=5",
@@ -3825,7 +3826,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321907/detailed"
   },
   {
-    "nome": "Três de Maio",
+    "ibge_nome_cidade": "Três de Maio",
     "ibge_codigo_cidade": 4321808,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321808",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321808?limite=5",
@@ -3834,7 +3835,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321808/detailed"
   },
   {
-    "nome": "Trindade do Sul",
+    "ibge_nome_cidade": "Trindade do Sul",
     "ibge_codigo_cidade": 4321956,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4321956",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4321956?limite=5",
@@ -3843,7 +3844,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4321956/detailed"
   },
   {
-    "nome": "Triunfo",
+    "ibge_nome_cidade": "Triunfo",
     "ibge_codigo_cidade": 4322004,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322004",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322004?limite=5",
@@ -3852,7 +3853,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322004/detailed"
   },
   {
-    "nome": "Tucunduva",
+    "ibge_nome_cidade": "Tucunduva",
     "ibge_codigo_cidade": 4322103,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322103",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322103?limite=5",
@@ -3861,7 +3862,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322103/detailed"
   },
   {
-    "nome": "Tunas",
+    "ibge_nome_cidade": "Tunas",
     "ibge_codigo_cidade": 4322152,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322152",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322152?limite=5",
@@ -3870,7 +3871,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322152/detailed"
   },
   {
-    "nome": "Tupanci do Sul",
+    "ibge_nome_cidade": "Tupanci do Sul",
     "ibge_codigo_cidade": 4322186,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322186",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322186?limite=5",
@@ -3879,7 +3880,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322186/detailed"
   },
   {
-    "nome": "Tupanciretã",
+    "ibge_nome_cidade": "Tupanciretã",
     "ibge_codigo_cidade": 4322202,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322202",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322202?limite=5",
@@ -3888,7 +3889,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322202/detailed"
   },
   {
-    "nome": "Tupandi",
+    "ibge_nome_cidade": "Tupandi",
     "ibge_codigo_cidade": 4322251,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322251",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322251?limite=5",
@@ -3897,7 +3898,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322251/detailed"
   },
   {
-    "nome": "Tuparendi",
+    "ibge_nome_cidade": "Tuparendi",
     "ibge_codigo_cidade": 4322301,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322301",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322301?limite=5",
@@ -3906,7 +3907,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322301/detailed"
   },
   {
-    "nome": "Turuçu",
+    "ibge_nome_cidade": "Turuçu",
     "ibge_codigo_cidade": 4322327,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322327",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322327?limite=5",
@@ -3915,7 +3916,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322327/detailed"
   },
   {
-    "nome": "Ubiretama",
+    "ibge_nome_cidade": "Ubiretama",
     "ibge_codigo_cidade": 4322343,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322343",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322343?limite=5",
@@ -3924,7 +3925,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322343/detailed"
   },
   {
-    "nome": "União da Serra",
+    "ibge_nome_cidade": "União da Serra",
     "ibge_codigo_cidade": 4322350,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322350",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322350?limite=5",
@@ -3933,7 +3934,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322350/detailed"
   },
   {
-    "nome": "Unistalda",
+    "ibge_nome_cidade": "Unistalda",
     "ibge_codigo_cidade": 4322376,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322376",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322376?limite=5",
@@ -3942,7 +3943,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322376/detailed"
   },
   {
-    "nome": "Uruguaiana",
+    "ibge_nome_cidade": "Uruguaiana",
     "ibge_codigo_cidade": 4322400,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322400",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322400?limite=5",
@@ -3951,7 +3952,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322400/detailed"
   },
   {
-    "nome": "Vacaria",
+    "ibge_nome_cidade": "Vacaria",
     "ibge_codigo_cidade": 4322509,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322509",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322509?limite=5",
@@ -3960,7 +3961,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322509/detailed"
   },
   {
-    "nome": "Vale Real",
+    "ibge_nome_cidade": "Vale Real",
     "ibge_codigo_cidade": 4322541,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322541",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322541?limite=5",
@@ -3969,7 +3970,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322541/detailed"
   },
   {
-    "nome": "Vale Verde",
+    "ibge_nome_cidade": "Vale Verde",
     "ibge_codigo_cidade": 4322525,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322525",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322525?limite=5",
@@ -3978,7 +3979,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322525/detailed"
   },
   {
-    "nome": "Vale do Sol",
+    "ibge_nome_cidade": "Vale do Sol",
     "ibge_codigo_cidade": 4322533,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322533",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322533?limite=5",
@@ -3987,7 +3988,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322533/detailed"
   },
   {
-    "nome": "Vanini",
+    "ibge_nome_cidade": "Vanini",
     "ibge_codigo_cidade": 4322558,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322558",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322558?limite=5",
@@ -3996,7 +3997,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322558/detailed"
   },
   {
-    "nome": "Venâncio Aires",
+    "ibge_nome_cidade": "Venâncio Aires",
     "ibge_codigo_cidade": 4322608,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322608",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322608?limite=5",
@@ -4005,7 +4006,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322608/detailed"
   },
   {
-    "nome": "Vera Cruz",
+    "ibge_nome_cidade": "Vera Cruz",
     "ibge_codigo_cidade": 4322707,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322707",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322707?limite=5",
@@ -4014,7 +4015,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322707/detailed"
   },
   {
-    "nome": "Veranópolis",
+    "ibge_nome_cidade": "Veranópolis",
     "ibge_codigo_cidade": 4322806,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322806",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322806?limite=5",
@@ -4023,7 +4024,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322806/detailed"
   },
   {
-    "nome": "Vespasiano Corrêa",
+    "ibge_nome_cidade": "Vespasiano Corrêa",
     "ibge_codigo_cidade": 4322855,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322855",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322855?limite=5",
@@ -4032,7 +4033,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322855/detailed"
   },
   {
-    "nome": "Viadutos",
+    "ibge_nome_cidade": "Viadutos",
     "ibge_codigo_cidade": 4322905,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4322905",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4322905?limite=5",
@@ -4041,7 +4042,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4322905/detailed"
   },
   {
-    "nome": "Viamão",
+    "ibge_nome_cidade": "Viamão",
     "ibge_codigo_cidade": 4323002,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4323002",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4323002?limite=5",
@@ -4050,7 +4051,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4323002/detailed"
   },
   {
-    "nome": "Vicente Dutra",
+    "ibge_nome_cidade": "Vicente Dutra",
     "ibge_codigo_cidade": 4323101,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4323101",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4323101?limite=5",
@@ -4059,7 +4060,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4323101/detailed"
   },
   {
-    "nome": "Victor Graeff",
+    "ibge_nome_cidade": "Victor Graeff",
     "ibge_codigo_cidade": 4323200,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4323200",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4323200?limite=5",
@@ -4068,7 +4069,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4323200/detailed"
   },
   {
-    "nome": "Vila Flores",
+    "ibge_nome_cidade": "Vila Flores",
     "ibge_codigo_cidade": 4323309,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4323309",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4323309?limite=5",
@@ -4077,7 +4078,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4323309/detailed"
   },
   {
-    "nome": "Vila Lângaro",
+    "ibge_nome_cidade": "Vila Lângaro",
     "ibge_codigo_cidade": 4323358,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4323358",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4323358?limite=5",
@@ -4086,7 +4087,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4323358/detailed"
   },
   {
-    "nome": "Vila Maria",
+    "ibge_nome_cidade": "Vila Maria",
     "ibge_codigo_cidade": 4323408,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4323408",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4323408?limite=5",
@@ -4095,7 +4096,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4323408/detailed"
   },
   {
-    "nome": "Vila Nova do Sul",
+    "ibge_nome_cidade": "Vila Nova do Sul",
     "ibge_codigo_cidade": 4323457,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4323457",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4323457?limite=5",
@@ -4104,7 +4105,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4323457/detailed"
   },
   {
-    "nome": "Vista Alegre",
+    "ibge_nome_cidade": "Vista Alegre",
     "ibge_codigo_cidade": 4323507,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4323507",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4323507?limite=5",
@@ -4113,7 +4114,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4323507/detailed"
   },
   {
-    "nome": "Vista Alegre do Prata",
+    "ibge_nome_cidade": "Vista Alegre do Prata",
     "ibge_codigo_cidade": 4323606,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4323606",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4323606?limite=5",
@@ -4122,7 +4123,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4323606/detailed"
   },
   {
-    "nome": "Vista Gaúcha",
+    "ibge_nome_cidade": "Vista Gaúcha",
     "ibge_codigo_cidade": 4323705,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4323705",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4323705?limite=5",
@@ -4131,7 +4132,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4323705/detailed"
   },
   {
-    "nome": "Vitória das Missões",
+    "ibge_nome_cidade": "Vitória das Missões",
     "ibge_codigo_cidade": 4323754,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4323754",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4323754?limite=5",
@@ -4140,7 +4141,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4323754/detailed"
   },
   {
-    "nome": "Westfália",
+    "ibge_nome_cidade": "Westfália",
     "ibge_codigo_cidade": 4323770,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4323770",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4323770?limite=5",
@@ -4149,7 +4150,7 @@
     "url_simagro_forecast_detailed": "https://clima.rs.gov.br/climars/api/v1/simagro/forecast/4323770/detailed"
   },
   {
-    "nome": "Xangri-lá",
+    "ibge_nome_cidade": "Xangri-lá",
     "ibge_codigo_cidade": 4323804,
     "url_ibge_cidade": "https://www.ibge.gov.br/cidades-e-estados?c=4323804",
     "url_clima_rs_v1_ana_cotas": "https://clima.rs.gov.br/climars/api/v1/ana/cotas/municipio/4323804?limite=5",
