@@ -9,3 +9,12 @@ API de leitura para agregacao de outras apis publicas com dados abertos, foco em
 - OVERPASS
 - OPENMETEO
 - OPENSTREETMAP
+- OPENTOPODATA
+- OBIS
+- NASA
+- PURPLEAIR
+- RELIEF
+- SUNRISE-SUNSET
+- INPE
+- GLOBALFLOODSDB
+- INATURALIST
