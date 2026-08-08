@@ -18,3 +18,7 @@ API de leitura para agregacao de outras apis publicas com dados abertos, foco em
 - INPE
 - GLOBALFLOODSDB
 - INATURALIST
+- USGS
+- OPEN-ELEVATION
+- GBIF
+
