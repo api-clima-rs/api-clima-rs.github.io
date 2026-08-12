@@ -5,7 +5,7 @@
   <title>JSON</title>
 </head>
 <body>
-    <script src="../api/cont/cities/v1/ct.js"></script>
+    <script src="../api/controller/cities/v1/ct.js"></script>
     <script>
         getDataTo(new URLSearchParams(window.location.search).get("city")).then(e => {
             document.body.innerHTML = `<pre>${JSON.stringify(e, null, 2)}</pre>`;

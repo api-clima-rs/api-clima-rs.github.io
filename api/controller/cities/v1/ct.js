@@ -1,7 +1,7 @@
 
 async function getDataTo(cityName) {
     try {
-        let response = await fetch("https://raw.githubusercontent.com/api-clima-rs/api-clima-rs.github.io/refs/heads/main/src/api/repo/data/db.json");
+        let response = await fetch("https://raw.githubusercontent.com/api-clima-rs/api-clima-rs.github.io/refs/heads/main/api/repository/data/db.json");
         if (!response.ok) {
             throw new (`HTTP Error ${resposta.status}: Fetch data error `);
         }
