@@ -27,7 +27,7 @@ API de leitura para agregacao de outras apis publicas com dados abertos, foco em
 
 Exemplo GET:
 ```bash
-https://meu-rs.github.io/src/pages/index.html?city=Porto Alegre
+https://api-clima-rs.github.io/src/pages/index.html?city=Porto Alegre
 ```
 
 Exemplo Response:
