@@ -25,6 +25,11 @@ API de leitura para agregacao de outras apis publicas com dados abertos, foco em
 - GBIF
 
 
+DOC:
+```bash
+https://api-clima-rs.github.io
+```
+
 Exemplo GET:
 ```bash
 https://api-clima-rs.github.io/pages/index.html?city=Porto Alegre
